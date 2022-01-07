@@ -1,0 +1,4 @@
+To run the project, locate the map.txt file in C Disk
+url must be c:\map.txt
+
+map must be 1000x1000 matrix to run the programm correctly
